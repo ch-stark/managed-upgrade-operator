@@ -4,7 +4,7 @@ metadata:
   name: managed-upgrade-config
 spec:
   type: "OSD"
-  upgradeAt: "2022-21-06T15:10:00Z"
+  upgradeAt: "2022-21-06T13:11:00Z"
   PDBForceDrainTimeout: 60
   capacityReservation: true
   desired:
